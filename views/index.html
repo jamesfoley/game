@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<!-- Meta data -->
+	<meta charset="UTF-8">
+	<title>Game 2</title>
+
+	<!-- Stylesheets -->
+	<link href="/static/css/screen.css" media="screen, projection" rel="stylesheet" type="text/css" />
+
+	<!-- Libraries -->
+	<script src="//code.jquery.com/jquery-1.11.0.js"></script>
+	<script src="/socket.io/socket.io.js"></script>
+
+	<!-- Engine -->
+	<script src="/static/js/engine.js"></script>
+
+	<!-- Script -->
+	<script>
+	//	Wait for the document to be ready, then trigger webfont load
+	$(function(){
+
+		//	Configure the Google Web Font Loader
+		WebFontConfig = {
+			custom: { families: ['gamegirl_classicregular'],
+			urls: [ '/static/fonts/gamegirl/gamegirl.css' ] },
+			active: function() {
+
+				//	Call function when done
+				document_ready()
+			},
+		};
+
+		//	Load the webfont loader
+		(function() {
+			var wf = document.createElement('script');
+			wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+				'://ajax.googleapis.com/ajax/libs/webfont/1.4.7/webfont.js';
+			wf.type = 'text/javascript';
+			wf.async = 'true';
+			var s = document.getElementsByTagName('script')[0];
+			s.parentNode.insertBefore(wf, s);
+		})();
+
+	});
+
+	//	Everything has loaded
+	function document_ready(){
+
+		//	Init canvas for rendering
+		engine.canvas.init(function(){
+
+			//	Tell client we are loading
+			engine.canvas.loading_screen('Loading...');
+
+			//	Load player sprites
+			engine.player.init(function(){
+
+				//	Connect to the gameserver
+				engine.networking.init(function(){
+
+					//	Init input
+					engine.input.init();
+
+				})
+
+			})
+
+		})
+
+	}
+	</script>
+
+</head>
+<body>
+	
+	<div class="container">
+		<canvas width="496" height="432" class="game" />
+	</div>
+
+</body>
+</html>

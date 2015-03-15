@@ -1,0 +1,29 @@
+@import "compass/reset";
+
+html, body {
+	height: 100%;
+	overflow: hidden;
+}
+body {
+	background-color: #3E4957;
+}
+
+.container {
+	height: 100%;
+	width: 100%;
+	min-width: 800px;
+
+	background-color: #3E4957;
+	background-image: url("/static/img/gameboycolor.png"); 
+	background-repeat: no-repeat;
+	background-position: top 20px center;
+
+	canvas {
+		position: relative;
+		top: 142px;
+		margin: 0 auto 0 auto;
+		display: block;
+		
+		background-color: #8D817A;		
+	}
+} 
