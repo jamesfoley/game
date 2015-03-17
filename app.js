@@ -7,7 +7,7 @@ var express = require('express'),
 
 //	Init modules
 var app = express();
-var server = app.listen(8081);
+var server = app.listen(8082);
 var io = require('socket.io').listen(server);
 
 //	Socket.io configuration
