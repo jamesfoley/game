@@ -165,9 +165,9 @@
    <tile gid="1"/>
    <tile gid="1"/>
    <tile gid="1"/>
-   <tile gid="379"/>
-   <tile gid="382"/>
-   <tile gid="384"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
+   <tile gid="1"/>
    <tile gid="1"/>
    <tile gid="1"/>
    <tile gid="1"/>
@@ -180,9 +180,9 @@
    <tile gid="1"/>
    <tile gid="1"/>
    <tile gid="1"/>
-   <tile gid="425"/>
+   <tile gid="1"/>
    <tile gid="427"/>
-   <tile gid="430"/>
+   <tile gid="1"/>
    <tile gid="1"/>
    <tile gid="1"/>
    <tile gid="1"/>
@@ -394,6 +394,9 @@
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
+   <tile gid="379"/>
+   <tile gid="380"/>
+   <tile gid="384"/>
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
@@ -406,12 +409,9 @@
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
+   <tile gid="425"/>
    <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
+   <tile gid="430"/>
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
@@ -698,9 +698,9 @@
   <object id="7" name="Door 1" type="door" x="112" y="192" width="16" height="16">
    <properties>
     <property name="direction" value="down"/>
-    <property name="zone" value="pallet_town"/>
     <property name="x" value="6"/>
     <property name="y" value="7"/>
+    <property name="zone" value="pallet_town"/>
    </properties>
   </object>
  </objectgroup>
