@@ -168,6 +168,7 @@ function load_zone(zone, callback) {
 load_zone('pallet_town');
 load_zone('room_1');
 load_zone('room_2');
+load_zone('room_2_1');
 load_zone('room_3');
 
 //	Store player zone locations

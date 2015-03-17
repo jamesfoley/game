@@ -233,6 +233,8 @@ engine.zone.draw_tile = function(x, y, tile) {
             destination_y,
             engine.zone.properties.tilewidth,
             engine.zone.properties.tilewidth);
+    }else{
+
     }
 }
 engine.zone.render_layer = function(layer) {

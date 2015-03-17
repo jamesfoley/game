@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" nextobjectid="15">
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="10" height="10" tilewidth="16" tileheight="16" nextobjectid="14">
  <properties>
   <property name="spawn_x" value="4"/>
   <property name="spawn_y" value="9"/>
@@ -20,84 +20,84 @@
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="39"/>
-   <tile gid="40"/>
-   <tile gid="41"/>
-   <tile gid="42"/>
-   <tile gid="43"/>
-   <tile gid="44"/>
-   <tile gid="45"/>
-   <tile gid="46"/>
+   <tile gid="415"/>
+   <tile gid="416"/>
+   <tile gid="417"/>
+   <tile gid="418"/>
+   <tile gid="419"/>
+   <tile gid="420"/>
+   <tile gid="421"/>
+   <tile gid="422"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="86"/>
-   <tile gid="87"/>
-   <tile gid="88"/>
-   <tile gid="89"/>
-   <tile gid="90"/>
-   <tile gid="91"/>
-   <tile gid="92"/>
-   <tile gid="93"/>
+   <tile gid="462"/>
+   <tile gid="463"/>
+   <tile gid="464"/>
+   <tile gid="465"/>
+   <tile gid="466"/>
+   <tile gid="467"/>
+   <tile gid="468"/>
+   <tile gid="469"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="133"/>
-   <tile gid="134"/>
-   <tile gid="135"/>
-   <tile gid="136"/>
-   <tile gid="137"/>
-   <tile gid="138"/>
-   <tile gid="139"/>
-   <tile gid="140"/>
+   <tile gid="509"/>
+   <tile gid="510"/>
+   <tile gid="511"/>
+   <tile gid="512"/>
+   <tile gid="513"/>
+   <tile gid="514"/>
+   <tile gid="515"/>
+   <tile gid="516"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="180"/>
-   <tile gid="181"/>
-   <tile gid="182"/>
-   <tile gid="183"/>
-   <tile gid="184"/>
-   <tile gid="185"/>
-   <tile gid="186"/>
-   <tile gid="187"/>
+   <tile gid="556"/>
+   <tile gid="557"/>
+   <tile gid="558"/>
+   <tile gid="559"/>
+   <tile gid="560"/>
+   <tile gid="561"/>
+   <tile gid="562"/>
+   <tile gid="563"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="227"/>
-   <tile gid="228"/>
-   <tile gid="229"/>
-   <tile gid="230"/>
-   <tile gid="231"/>
-   <tile gid="232"/>
-   <tile gid="233"/>
-   <tile gid="234"/>
+   <tile gid="603"/>
+   <tile gid="604"/>
+   <tile gid="605"/>
+   <tile gid="606"/>
+   <tile gid="607"/>
+   <tile gid="608"/>
+   <tile gid="609"/>
+   <tile gid="610"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="274"/>
-   <tile gid="275"/>
-   <tile gid="276"/>
-   <tile gid="277"/>
-   <tile gid="278"/>
-   <tile gid="279"/>
-   <tile gid="280"/>
-   <tile gid="281"/>
+   <tile gid="650"/>
+   <tile gid="651"/>
+   <tile gid="652"/>
+   <tile gid="653"/>
+   <tile gid="654"/>
+   <tile gid="655"/>
+   <tile gid="656"/>
+   <tile gid="657"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="321"/>
-   <tile gid="322"/>
-   <tile gid="323"/>
-   <tile gid="324"/>
-   <tile gid="325"/>
-   <tile gid="326"/>
-   <tile gid="327"/>
-   <tile gid="328"/>
+   <tile gid="697"/>
+   <tile gid="698"/>
+   <tile gid="699"/>
+   <tile gid="700"/>
+   <tile gid="701"/>
+   <tile gid="702"/>
+   <tile gid="703"/>
+   <tile gid="704"/>
    <tile gid="0"/>
    <tile gid="0"/>
-   <tile gid="368"/>
-   <tile gid="369"/>
-   <tile gid="370"/>
-   <tile gid="371"/>
-   <tile gid="372"/>
-   <tile gid="373"/>
-   <tile gid="374"/>
-   <tile gid="375"/>
+   <tile gid="744"/>
+   <tile gid="745"/>
+   <tile gid="746"/>
+   <tile gid="747"/>
+   <tile gid="748"/>
+   <tile gid="749"/>
+   <tile gid="750"/>
+   <tile gid="751"/>
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
@@ -239,41 +239,11 @@
    <tile gid="585"/>
    <tile gid="585"/>
    <tile gid="585"/>
-   <tile gid="585"/>
-   <tile gid="585"/>
-   <tile gid="585"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="585"/>
    <tile gid="585"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
    <tile gid="585"/>
    <tile gid="585"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="585"/>
-   <tile gid="585"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="585"/>
-   <tile gid="585"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="0"/>
-   <tile gid="585"/>
-   <tile gid="585"/>
-   <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="585"/>
@@ -299,6 +269,36 @@
    <tile gid="585"/>
    <tile gid="585"/>
    <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="585"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="585"/>
+   <tile gid="585"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="585"/>
+   <tile gid="585"/>
+   <tile gid="585"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="0"/>
+   <tile gid="585"/>
+   <tile gid="585"/>
+   <tile gid="585"/>
    <tile gid="0"/>
    <tile gid="0"/>
    <tile gid="0"/>
@@ -320,28 +320,12 @@
   </data>
  </layer>
  <objectgroup name="events">
-  <object id="12" name="Door 1" type="door" x="48" y="128" width="16" height="16">
-   <properties>
-    <property name="direction" value="down"/>
-    <property name="x" value="14"/>
-    <property name="y" value="7"/>
-    <property name="zone" value="pallet_town"/>
-   </properties>
-  </object>
-  <object id="13" name="Door 1" type="door" x="64" y="128" width="16" height="16">
-   <properties>
-    <property name="direction" value="down"/>
-    <property name="x" value="14"/>
-    <property name="y" value="7"/>
-    <property name="zone" value="pallet_town"/>
-   </properties>
-  </object>
-  <object id="14" name="Door 2" type="door" x="128" y="16" width="16" height="16">
+  <object id="12" name="Door 1" type="door" x="128" y="16" width="16" height="16">
    <properties>
     <property name="direction" value="down"/>
     <property name="x" value="9"/>
     <property name="y" value="3"/>
-    <property name="zone" value="room_2_1"/>
+    <property name="zone" value="room_2"/>
    </properties>
   </object>
  </objectgroup>
